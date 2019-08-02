@@ -5,7 +5,6 @@
 !rsort - determines which column to sort according to
 !v - determines the sorting verse, if v==1 it sorts from the smallest to the largest value if v==2 it sorts from the largest value to the smallest
 ! output ...
-! B(r,c) - inverse matrix of A
 ! comments ...
 ! the original matrix A(r,c) will be destroyed 
 ! during the calculation
