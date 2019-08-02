@@ -3,7 +3,7 @@
 ! A(r,c) - array of coefficients for matrix A
 ! r,c - dimension
 !rsort - determines which column to sort according to
-!v - determines the sorting verse, if v==1 it sorts from the smallest to the largest value if v==2 it sorts from the largest value to the smallest
+!v - determines the sorting verse, if v==1 it sorts from the smallest to the largest value if v==2 it sorts starting from the largest value to the smallest
 ! output ...
 ! comments ...
 ! the original matrix A(r,c) will be destroyed 
